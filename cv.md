@@ -43,8 +43,6 @@ Specialty: Environmental expert
 
 - Languages: Belarusian — Native, English — A1.
 
-- I'm a creative person. I paint pictures, design and creating handmade jewelry, and make pottery. Love so much animals and I have 2 dogs: Alf and Chili. I like to travel, this process inspires me. I love completing tasks before my deadlines.I find a common language the most people. I like to learn something new. I find inspiration in many things around us.
-I appreciate in people: sincerity, responsibility, punctuality, straightforwardness, kindness, passion for their work, the ability to admit their mistakes. I try to live up to it myself.
 
 [Github](https://github.com/missmilliss)
 
