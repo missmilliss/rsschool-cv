@@ -1,0 +1,108 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+div.a4{
+    margin: 5mm auto;
+    height: auto;
+    width: 21cm;
+    display: flex;
+}
+
+div.sidebar{
+    height: 100%;
+    width: 35%;
+    background-color: #CEE7EC;
+    background-image: url('') ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    padding:20px 20px 46px 20px;
+}
+
+div.myLinks>h3{
+    text-transform: uppercase;
+}
+
+.myLinks>h3{
+    font-family: Montserrat, sans-serif;
+    color: #0092B7;
+    font-size: 20px;
+}
+.list li {
+    list-style-type: none;
+}
+
+.list{
+    padding: 0;
+}
+
+.link_page{
+    text-decoration: none;
+}
+
+.link_page>li>a{
+    text-decoration: none;
+    color: #000000;
+    margin-left: -10px;
+}
+
+.mySkills>h3{
+    text-transform: uppercase;
+    color: #0092B7;
+    font-size: 20px;
+}
+
+.skillsText{
+    font-size: 18px;
+}
+
+.myLanguages>h3{
+    text-transform: uppercase;
+    color: #0092B7;
+    font-size: 20px;
+}
+
+.textLang{
+    font-size: 18px;
+}
+
+.myName>h1{
+font-family: normal bold 40px Montserrat, sans-serif;
+color: #0092B7;
+}
+
+.desiredWork{
+    color: #0092B7;
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+.main-header__inline{
+    display: inline-block;
+    background-color: #CEE7EC;
+    padding: 8px 70px 8px 70px;
+    color:#0092B7;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.mainContent{
+    display: flex;
+    flex-direction: column;
+    background-color: #FAF3E4;
+}
+
+.main_text{
+    font-size: 16px;
+    padding-right: 30px;
+    text-align: justify;
+}
+
+div.headerAdress{
+    text-align: left;
+    font-size: 18px;
+
+}
+
